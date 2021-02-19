@@ -15,12 +15,7 @@ def main_function(n):
             internal_list.append(np.random.randint(1, 100))
 
         main_list.append(internal_list)
-    # k = [70,15,1,68,150]
-    # for i in k:
-    #     print(i)
-    #     random 1, i
-        # for j in range(i):
-        #     print(i)
+        
     # *****************************************************
     # Раскоментив эту строку можно посмотреть сгенерированные массивы
     # print("First generate:", main_list)
